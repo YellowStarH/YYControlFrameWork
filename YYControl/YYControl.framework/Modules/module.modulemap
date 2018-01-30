@@ -1,0 +1,6 @@
+framework module YYControl {
+  umbrella header "YYControl.h"
+
+  export *
+  module * { export * }
+}
